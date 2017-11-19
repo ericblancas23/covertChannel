@@ -1,12 +1,10 @@
 Covert Channel
 ==============================================
-COMP8505 - Assignment 1
-By: Jeffrey Sasaki
+Eric Blancas
 
 Description:
 ------------------------------------------------------------------------------
-This assignment features a Covert Channel implementation based on Craig Rowland's
-covert_tcp program and documentation. Implementation was completed in Python.
+ Implementation was completed in Python.
 
 Files:
 ------------------------------------------------------------------------------
@@ -23,7 +21,3 @@ $ python server.py
 Note:
 User must have Scapy installed and must be a super user (root)
 Scapy can be downloaded at http://www.secdev.org/projects/scapy/
-
-Documentations:
--------------------------------------------------------------------------------
-Documentation and testing documentation can be found in Documentation.pdf
