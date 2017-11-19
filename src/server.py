@@ -1,13 +1,4 @@
-'''
-COMP 8505 - Assignment 1
-Cover Channel - Server by Jeffrey Sasaki
 
-This python program acts as a listener for covert traffic coming into the
-machine
-
-The program listens for traffic and listens for the "Echo" flag bit
-It then reads the data from the source port.
-'''
 
 import sys
 from scapy.all import *

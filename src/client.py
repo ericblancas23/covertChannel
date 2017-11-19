@@ -1,13 +1,4 @@
-'''
-COMP 8505 - Assignment 1
-Covert Channel - Client by Jeffrey Sasaki
 
-Packets are crafted and, data is stored as a decimal value
-in the source port field of the TCP Header
-
-The packet also sets the Echo flag bit for the server to know that
-the packet is part of the covert channel
-'''
 
 import sys
 from scapy.all import *
